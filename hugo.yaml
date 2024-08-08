@@ -1,7 +1,7 @@
 baseURL: https://zff.github.io
 
-languageCode: bn
-title: "John's Blog"
+languageCode: en-us
+title: "zuofeifei's personal website."
 
 # Use Hugo modules to add theme
 module:
@@ -25,11 +25,6 @@ languages:
     languageName: English
     title: "John's Blog"
     weight: 1
-  bn:
-    languageCode: bn
-    languageName: বাংলা
-    title: জনের ব্লগ
-    weight: 2
 # default language for the content
 defaultContentLanguage: en
 
