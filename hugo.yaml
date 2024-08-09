@@ -1,4 +1,4 @@
-baseURL: https://zff.github.io
+baseURL: https://zuofeifei.com
 
 languageCode: en
 title: "zuofeifei's personal website."
@@ -68,7 +68,7 @@ params:
     favicon: /images/site/favicon.png
 
   # GitHub repo of your site
-  gitRepo: https://github.com/hugo-toha/zff.github.io
+  gitRepo: https://github.com/zhiyouce/zff.github.io
   # Default branch of your Git repo
   gitBranch: main
 
