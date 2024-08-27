@@ -1,7 +1,7 @@
-baseURL: https://zuofeifei.com
+baseURL: https://www.zuofeifei.com
 
-languageCode: en
-title: "zuofeifei's personal website."
+languageCode: zh
+title: "左飞飞律师的个人网站"
 
 # Use Hugo modules to add theme
 module:
@@ -20,13 +20,13 @@ module:
 # Manage languages
 # For any more details, you can check the official documentation: https://gohugo.io/content-management/multilingual/
 languages:
-  en:
-    languageCode: en
+  zh:
+    languageCode: zh
     languageName: English
-    title: "zuofeifei's personal website."
+    title: "左飞飞律师的个人网站"
     weight: 1
 # default language for the content
-defaultContentLanguage: en
+defaultContentLanguage: zh
 
 
 # Allow raw html in markdown file
