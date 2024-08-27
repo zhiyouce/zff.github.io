@@ -22,8 +22,8 @@ module:
 languages:
   zh:
     languageCode: zh
-    languageName: English
-    title: "左飞飞律师的个人网站"
+    languageName: Chinese
+    title: "左律师的个人网站"
     weight: 1
 # default language for the content
 defaultContentLanguage: zh
@@ -69,7 +69,7 @@ params:
 
   # Configure the number of section title visible in the top navbar
   topNavbar:
-    maxVisibleSections: 5
+    maxVisibleSections: 10
 
   # Configure various features of this theme
   features:
