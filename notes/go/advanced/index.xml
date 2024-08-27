@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Advanced on zuofeifei&#39;s personal website.</title>
-    <link>https://zuofeifei.com/notes/go/advanced/</link>
-    <description>Recent content in Advanced on zuofeifei&#39;s personal website.</description>
+    <title>Advanced on 左飞飞律师的个人网站</title>
+    <link>https://www.zuofeifei.com/notes/go/advanced/</link>
+    <description>Recent content in Advanced on 左飞飞律师的个人网站</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://zuofeifei.com/notes/go/advanced/index.xml" rel="self" type="application/rss+xml" /><item>
+    <language>zh</language><atom:link href="https://www.zuofeifei.com/notes/go/advanced/index.xml" rel="self" type="application/rss+xml" /><item>
       <title>অ্যাডভান্সড</title>
-      <link>https://zuofeifei.com/notes/go/advanced/_index.bn/</link>
+      <link>https://www.zuofeifei.com/notes/go/advanced/_index.bn/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zuofeifei.com/notes/go/advanced/_index.bn/</guid>
+      <guid>https://www.zuofeifei.com/notes/go/advanced/_index.bn/</guid>
       <description></description>
     </item>
     
     <item>
       <title>File Manipulation</title>
-      <link>https://zuofeifei.com/notes/go/advanced/files/</link>
+      <link>https://www.zuofeifei.com/notes/go/advanced/files/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zuofeifei.com/notes/go/advanced/files/</guid>
+      <guid>https://www.zuofeifei.com/notes/go/advanced/files/</guid>
       <description> Condition if day == &amp;#34;sunday&amp;#34; || day == &amp;#34;saturday&amp;#34; { rest() } else if day == &amp;#34;monday&amp;#34; &amp;amp;&amp;amp; isTired() { groan() } else { work() } if _, err := doThing(); err != nil { fmt.Println(&amp;#34;Uh oh&amp;#34;) </description>
     </item>
     
